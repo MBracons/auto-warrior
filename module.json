@@ -1,0 +1,9 @@
+{
+	"name": "auto-warrior",
+    "author": "Pantumaka",
+	"description": "Auto bd after traverse cut if 13 stacks",
+	"options": {
+        "niceName": "auto-warrior",
+        "guiName": "auto-warrior"
+    }
+}
